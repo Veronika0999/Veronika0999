@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=veronika0999&label=Profile%20views&color=ff7e99&style=flat" alt="veronika0999" width="100" height="20" /> </p>
 
 <h1 align="center">Hi 👋, I'm Veronika</h1>
 <h3 align="center"></h3>
@@ -28,6 +29,4 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veronika0999&show_icons=true&locale=en&layout=compact" alt="veronika0999" /></p>
 
 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veronika0999&label=Profile%20views&color=0e75b6&style=flat" alt="veronika0999" /> </p>
 
