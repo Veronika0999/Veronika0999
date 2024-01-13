@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Veronika</h1>
-<h3 align="center">A passionate </h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on my new personal portfolio
 - 🌱 I’m currently learning JavaScript
