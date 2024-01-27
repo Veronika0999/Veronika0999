@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 I’m currently working as Junior Software Tester learning HTML, CSS and JavaScript.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Here is my LinkedIn so you can connect with me if you like:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/veronika-k-421732269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="here" height="30" width="40" /></a>
 </p>
