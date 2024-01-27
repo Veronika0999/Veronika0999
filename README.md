@@ -10,8 +10,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=veronika0999&label=Profile%20views&color=ff7e99&style=flat" alt="veronika0999" width="100" height="20" /> </p>
+-->
+
 
 <h1 align="center">Hi 👋, I'm Veronika</h1>
 <h3 align="center"></h3>
