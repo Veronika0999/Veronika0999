@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Veronika</h1>
 <h3 align="center"></h3>
 
-<h3 align="left">I’m currently working as Junior Software Tester learning HTML, CSS and JavaScript.</h3>
+<h3 align="left">I’m currently working as a Junior Software Tester learning HTML, CSS, and JavaScript on my own with the help of Udemy courses.</h3>
 
 <h4 align="left">Here is my LinkedIn so you can connect with me if you like:</h4>
 <p align="left">
