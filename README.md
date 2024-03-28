@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Veronika...</h1>
 <h3 align="center"></h3>
 
-<h3 align="left">... currently working as a Junior Software Tester learning automated testing, Python and playing with HTML and CSS.</h3>
+<h3 align="left">... currently working as a Manual Software Tester learning automated testing in Robot Framework.</h3>
 
 <h4 align="left">Here is my LinkedIn so you can connect with me if you like:</h4>
 <p align="left">
