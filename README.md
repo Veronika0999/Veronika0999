@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/veronika-k-421732269/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="here" height="30" width="40" /></a>
 </p>
+<!--
+<h4 align="left">Languages:</h4> -->
 
-<h4 align="left">Languages:</h4>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veronika0999&show_icons=true&locale=en&layout=compact" alt="veronika0999" /></p>
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=veronika0999&show_icons=true&locale=en&layout=compact" alt="veronika0999" /></p> -->
 
 
 
