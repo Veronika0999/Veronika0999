@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h4 align="left">Here is my LinkedIn so you can connect with me if you like:</h4>
 <p align="left">
-<a href="www.linkedin.com/in/veronika-krivankova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="here" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/veronika-krivankova/?locale=en_US" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="here" height="30" width="40" /></a>
 </p>
 <!--
 <h4 align="left">Languages:</h4> -->
