@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Veronika...</h1>
 <h3 align="center"></h3>
 
-<h3 align="left">... working as a Software Tester and studying cybersecurity at the Digital Academy by Czechitas.</h3>
+<h3 align="left">... working as a Software Tester and a graduate of the Czechitas Digital Academy in Cybersecurity. Continuously expanding my knowledge and skills in the field. </h3>
 
 <h4 align="left">Here is my LinkedIn so you can connect with me if you like:</h4>
 <p align="left">
